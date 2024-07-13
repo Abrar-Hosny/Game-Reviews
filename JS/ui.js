@@ -1,0 +1,16 @@
+class UI{
+
+
+
+     displayData(){
+
+    }
+
+
+    displayDetails(){
+        
+    }
+
+
+
+}
